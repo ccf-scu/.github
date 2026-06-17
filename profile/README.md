@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/logo.png" alt="CCF SCU Logo" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/ccf-scu/.github/profile/logo.png" alt="CCF SCU Logo" width="120" height="120">
   <h1>CCF 四川大学学生分会</h1>
   <p>中国计算机学会 (CCF) 四川大学学生分会官方 GitHub 社区</p>
   <p>致力于促进学术交流、技术分享与计算机领域学生发展</p>
@@ -37,11 +37,11 @@
 <div align="center">
   <div style="display: inline-block; margin: 0 20px;">
     <h4>会员迎新 1 群</h4>
-    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-1.png" alt="会员迎新 1 群二维码" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/ccf-scu/.github/profile/qq-group-1.png" alt="会员迎新 1 群二维码" width="200" height="200">
   </div>
   <div style="display: inline-block; margin: 0 20px;">
     <h4>会员迎新 2 群</h4>
-    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-2.png" alt="会员迎新 2 群二维码" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/ccf-scu/.github/profile/qq-group-2.png" alt="会员迎新 2 群二维码" width="200" height="200">
   </div>
 </div>
 
