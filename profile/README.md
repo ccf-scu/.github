@@ -34,8 +34,6 @@
 
 ## 📞 交流群
 
-## 📞 交流群
-
 <div align="center">
   <table style="border: none; margin: 0 auto;">
     <tr style="border: none;">
