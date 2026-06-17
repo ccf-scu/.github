@@ -34,15 +34,31 @@
 
 ## 📞 交流群
 
+## 📞 交流群
+
 <div align="center">
-  <div style="display: inline-block; margin: 0 20px;">
-    <h4>会员迎新1群</h4>
-    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-1.jpg" alt="会员迎新 1 群二维码" width="200" height="200">
-  </div>
-  <div style="display: inline-block; margin: 0 20px;">
-    <h4>会员迎新2群</h4>
-    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-2.jpg" alt="会员迎新 2 群二维码" width="200" height="200">
-  </div>
+  <table style="border: none; margin: 0 auto;">
+    <tr style="border: none;">
+      <td style="text-align: center; padding: 0 20px; border: none;">
+        <h4>会员迎新 1 群</h4>
+        <img 
+          src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-1.jpg" 
+          alt="会员迎新 1 群二维码" 
+          width="200" 
+          style="height: auto; display: block; margin: 0 auto;"
+        >
+      </td>
+      <td style="text-align: center; padding: 0 20px; border: none;">
+        <h4>会员迎新 2 群</h4>
+        <img 
+          src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-2.jpg" 
+          alt="会员迎新 2 群二维码" 
+          width="200" 
+          style="height: auto; display: block; margin: 0 auto;"
+        >
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
