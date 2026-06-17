@@ -37,11 +37,11 @@
 <div align="center">
   <div style="display: inline-block; margin: 0 20px;">
     <h4>会员迎新1群</h4>
-    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-1.png" alt="会员迎新 1 群二维码" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-1.jpg" alt="会员迎新 1 群二维码" width="200" height="200">
   </div>
   <div style="display: inline-block; margin: 0 20px;">
     <h4>会员迎新2群</h4>
-    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-2.png" alt="会员迎新 2 群二维码" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/ccf-scu/.github/main/profile/qq-group-2.jpg" alt="会员迎新 2 群二维码" width="200" height="200">
   </div>
 </div>
 
